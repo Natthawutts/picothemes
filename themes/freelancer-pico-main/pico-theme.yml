@@ -59,12 +59,12 @@ demo:
       link: tel:555555555
     - title: Email
       icon: envelope
-      content: name@example.com
-      link: mailto:name@example.com
+      content: 655021001426@mail.rmutk.ac.th
+      link: https:/655021001426@mail.rmutk.ac.th
   location:
     content: |
-      2215 John Daniel Drive 
-      Clark, MO 65243
+      RMUTK 
+      
   social:
     items:
     - icon: facebook-f
