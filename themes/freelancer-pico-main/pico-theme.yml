@@ -15,39 +15,41 @@ twig_config:                    # Twig template engine config
 demo:
   portfolio_items:
     - meta:
-        title: "Log Cabin"
+        title: "Computer Science - CS"
         thumbnail: ""
-        image: "%theme_url%/assets/img/portfolio/cabin.png"
+        image: "%theme_url%/assets/img/portfolio/computer-science.png"
         demo_content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
     - meta:
-        title: "Tasty Cake"
+        title: "Information Technology - IT"
         thumbnail: ""
-        image: "%theme_url%/assets/img/portfolio/cake.png"
+        image: "%theme_url%/assets/img/portfolio/robotic-hand.png"
         demo_content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
-    - meta:
-        title: "Circus Tent"
-        thumbnail: ""
-        image: "%theme_url%/assets/img/portfolio/circus.png"
-        demo_content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
-    - meta:
-        title: "Controller"
-        thumbnail: ""
-        image: "%theme_url%/assets/img/portfolio/game.png"
-        demo_content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
-    - meta:
-        title: "Locked Safe"
-        thumbnail: ""
-        image: "%theme_url%/assets/img/portfolio/safe.png"
-        demo_content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
-    - meta:
-        title: "Submarine"
-        thumbnail: ""
-        image: "%theme_url%/assets/img/portfolio/submarine.png"
-        demo_content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+    # - meta:
+    #     title: "Circus Tent"
+    #     thumbnail: ""
+    #     image: "%theme_url%/assets/img/portfolio/circus.png"
+    #     demo_content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+    # - meta:
+    #     title: "Controller"
+    #     thumbnail: ""
+    #     image: "%theme_url%/assets/img/portfolio/game.png"
+    #     demo_content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+    # - meta:
+    #     title: "Locked Safe"
+    #     thumbnail: ""
+    #     image: "%theme_url%/assets/img/portfolio/safe.png"
+    #     demo_content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+    # - meta:
+    #     title: "Submarine"
+    #     thumbnail: ""
+    #     image: "%theme_url%/assets/img/portfolio/submarine.png"
+    #     demo_content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
   about:
     content: |
-      Freelancer is a free HTML theme created by Start Bootstrap and ported to PicoCMS for a streamlined and hassle free user experience. Using this theme in Pico, you can easily generate portfolio items by simply creating new markdown pages!
-      Your site's metadata provides tons of extra customization as well. You can specify your own avatar for the masthead, change the icons in the dividers, the social icons, and most of the text on the page all without touching the theme's code.
+      สาขาวิทยาการคอมพิวเตอร์และเทคโนโลยีสารสนเทศ (Computer Science & Information Technology) หรือ CS & IT RMUTK เป็นศูนย์กลางของการเรียนรู้และพัฒนาเทคโนโลยีดิจิทัล 
+      โดยเน้นการสร้างบุคลากรที่มีความเชี่ยวชาญด้าน วิทยาการคอมพิวเตอร์, เทคโนโลยีสารสนเทศ, ปัญญาประดิษฐ์, และการพัฒนาซอฟต์แวร์ เพื่อตอบสนองความต้องการของภาคอุตสาหกรรมและเทคโนโลยีสมัยใหม่
+
+
     actions:
       - icon: download
         content: Free Download!
@@ -60,7 +62,7 @@ demo:
     - title: Email
       icon: envelope
       content: 655021001426@mail.rmutk.ac.th
-      link: https:/655021001426@mail.rmutk.ac.th
+      link: 655021001426@mail.rmutk.ac.th
   location:
     content: |
       RMUTK 
