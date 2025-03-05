@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api/*"
+  to = "https://pico-cms-project.infinityfreeapp.com/:splat"
+  status = 200
+  force = true
